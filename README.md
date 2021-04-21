@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @savanaiscool
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Git and Python
-- 💞️ I’m looking to collaborate on I dont know
+- 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me I perfer you dont
 
 <!---

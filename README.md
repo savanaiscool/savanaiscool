@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @savanaiscool
-- 👀 I’m interested in Git and Python
-- 🌱 I’m currently learning Git and Python as well
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning Git and Python
+- 💞️ I’m looking to collaborate on I dont know
+- 📫 How to reach me I perfer you dont
 
 <!---
 savanaiscool/savanaiscool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
